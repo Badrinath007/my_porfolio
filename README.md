@@ -1,4 +1,4 @@
-[Live site]{https://badrinatha-portfolio.netlify.app/}
+[Live site](https://badrinatha-portfolio.netlify.app/)
 
 # Nuxt 3 Minimal Starter
 
