@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "SwiftCart",
+      "description": "The is an e-commerce website where i tried to make to more responsive and clean ui. I used react js framework and tailwindcss for styling. In his project, I used a json file to fetch the products and display them in the home page. I made the products to be dispalyed when clicked and provided an option to add those product to cart and proceed to make a payment. In future development, we can integrate it with stripe for secure payment and also implement some filter and search options for easy navigation for the user/customer",
+      "image": "image/project.png",
+      "url": "https://swiftcartshopping.netlify.app/"
+    },
+    {
+      "id": 2,
+      "title": "PERSONAL APPLICATION TRACKER APPLICATION",
+      "description": "Personal expense tracker application will maintain data of daily, weekly,monthly or yearly expenses. The expenses and earnings are maintained in a simple and intuitive way thus making the user to access the required categories easily making it an eco-friendly application.Un - Dee is an expense tracker application which helps the users to maintain a perfect balance between their expenses and budgeting plan. This application helps the user to create a budget plan by considering their necessary expenses and by viewing their previous month’s budget plan and build an efficient budget design based on it. When the user’s expenses reach the budgeting plan’s threshold limit the user will be notified and the user can change their expenses or budgeting plan based on it. Digital transactions like card payments, upi’s are taken into account directly and the non-digital payments should be entered by the user manually.We have 9 directories to our website each made of HTML, JS and CSS. We used Bootstrap CSS as the base. Starting with face of the site, the index.html showcases the information about the site itself and what kind of service we offer in the site. 404.html provides the basic “Not Found” error template for our site.Site is functional using FLASK module to construct. Login page and signin send and fetch data from ibm_db2. Every page is protected against unintended entering of a webpage. Dashboard shows the basic info about the user and their expenditure using various kinds of graphs and APIs and all other webpages are honed for quality improvisation and for best visual experience.The site works best on chromium-based browser as most of the best supported html tags are implemented in it. As from the images, CSS and JS, they are uploaded to IBM’s bucket storage to make the docker even more lightweight and for more security. To prevent people from getting stuck or lost, we implemented IBM Watson Assistant to assist the users in the pompous way to make them to understand what they can do and help them achieve their goals. The functional block of this project is both Docker and Kubernetes. Docker is to containerize the flask application and Kubernetes is to deploy the site using the docker image and to expose the site publicly.There are a lot of constraints when implementing Docker and Kubernetes due of the complexity of having 2 different containers in the same pod. Because of the DHCP server and other performance issues.Live project is unavailable due cancellation of IBM cloud account.",
+      "image": "/image/Wmage.jpeg",
+      "url": "https://vimeo.com/773085007"
+    }
+  ]
+  
