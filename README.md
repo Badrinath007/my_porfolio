@@ -1,7 +1,7 @@
 [Live site](https://badrinatha-portfolio.netlify.app/)
 
-Screenshot of the site
-
+Screenshot of the site 
+![image](https://github.com/user-attachments/assets/28624852-45b3-4e65-856e-3747da7b18f2)
 
 # Nuxt 3 Minimal Starter
 
